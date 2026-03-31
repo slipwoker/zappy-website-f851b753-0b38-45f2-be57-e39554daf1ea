@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סוכנות הנסיעות הישראלית המתמחה אך ורק ביפן. תכנון טיול ליפן מותאם אישית, ליווי מלא בעברית ונציג ישראלי בטוקיו שדואג לכם בשטח. הזמינו עכשיו!
+
+### שירותים
+https://example.com/services
+הזמנת מלונות, כרטיסי רכבת, סיורים מודרכים וכניסה לאטרקציות — הכול בעברית ובמקום אחד. תכנון טיול פרטי ליפן עם שירות קצה לקצה שמתאים בדיוק לנוסע העצמאי.
+
+### אודות
+https://example.com/about
+למה אלפי ישראלים בוחרים בנו? כי אנחנו לא סתם סוכנות — יש לנו נציג ישראלי שחי בטוקיו ומכיר את יפן מבפנים. גלו מי אנחנו ולמה תכנון טיול לנוסע העצמאי יפן מתחיל כאן.
+
+### צור קשר
+https://example.com/contact
+רוצים לתכנן טיול ליפן מותאם אישית? צרו איתנו קשר עכשיו ותקבלו ייעוץ אישי בעברית ממומחים שחיים ונושמים יפן. אנחנו כאן לענות על כל שאלה ולהתחיל לבנות את הטיול שחלמתם עליו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
